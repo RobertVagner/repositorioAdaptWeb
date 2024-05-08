@@ -1,0 +1,8 @@
+C:\Users\Robert\Desktop\Backend\Back\Back\bin\Debug\Back.exe.config
+C:\Users\Robert\Desktop\Backend\Back\Back\bin\Debug\Back.exe
+C:\Users\Robert\Desktop\Backend\Back\Back\bin\Debug\Back.pdb
+C:\Users\Robert\Desktop\Backend\Back\Back\obj\Debug\Back.csproj.AssemblyReference.cache
+C:\Users\Robert\Desktop\Backend\Back\Back\obj\Debug\Back.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robert\Desktop\Backend\Back\Back\obj\Debug\Back.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Backend\Back\Back\obj\Debug\Back.exe
+C:\Users\Robert\Desktop\Backend\Back\Back\obj\Debug\Back.pdb
